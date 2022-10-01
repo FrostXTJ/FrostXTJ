@@ -1,7 +1,7 @@
 ## Greetings, my friend.
 
-**I am a Computer Science student persuing a Bachelor degree at University of Southern California.**
-- Interested in interactive media, game development, and computer graphics. 
+**I am an EECS student persuing a Master degree at University of California, Berkeley.**
+- Interested in interactive media, game development, VR/AR, computer graphics, and machine learning. 
 - Familiar with `.py`, `.java`, `.js`, `.lua`, `.sql`, but a true beliver in `.cpp`!
 - You may learn more about my experience at personal website [xutianjian.com](https://www.xutianjian.com).
 - Happy coder being!
